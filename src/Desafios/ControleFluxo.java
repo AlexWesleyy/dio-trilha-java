@@ -1,3 +1,5 @@
+package Desafios;
+
 import java.util.*;
 class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String mensagem) {
