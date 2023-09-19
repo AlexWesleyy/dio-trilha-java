@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.ContaTerminal;
 
 import java.util.Scanner;
 public class ContaTerminal {

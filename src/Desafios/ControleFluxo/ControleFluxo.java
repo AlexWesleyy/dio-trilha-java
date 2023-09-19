@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.ControleFluxo;
 
 import java.util.*;
 class ParametrosInvalidosException extends Exception {
